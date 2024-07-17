@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family:  Helvetica,sans-serif;
+}
+.header{
+    display: flex;
+    padding: 5px 10px 5px 5px;
+    align-items: center;
+    background-color: rgb(131, 29, 29);
+    color: antiquewhite;
+    font-weight: 900;
+}
+.header img{
+    margin-right: 1.5%;
+    margin-left: 0.5%;
+    width: 5%;
+    height:10%;
+    border-radius: 50%;
+    padding: 5px;
+}
+.header nav{
+    margin-left: 40%;
+}
+.header nav a{
+    margin-left: 10px;
+    color: antiquewhite;
+    text-decoration: none;
+}
+.mid{
+    width: 25%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.mid p{
+    padding: 10px;
+}
+.clear{
+    clear: both;
+}
+.mid img{
+    width: 300px;
+    height: 400px;
+    border-radius: 20%;
+}
+.mid h3{
+    margin: 10px;
+}
+.end{
+    display: flex;
+    padding: 50px;
+    background-color: rgb(245, 241, 241);
+}
+.end img{
+    width: 400px;
+    height: 500px;
+}
+.left{
+    padding-top: 50px;
+    margin-right: 30px;
+}
+.left h2{
+    color: rgb(43, 70, 70);
+    margin-bottom: 60px;
+}
+.left p{
+    color: rgb(59, 95, 95);
+    margin-bottom: 30px;
+}
+.middle{
+    text-align: center;
+    margin: 60px;
+    color: rgb(59, 95, 95);
+}
+.middle h3{
+    margin: 30px;
+    color: rgb(43, 70, 70);
+}
+.last{
+    width: 33.3333%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.last p{
+    padding: 10px;
+    color: rgb(59, 95, 95);
+}
+.last img{
+    width: 400px;
+    height: 400px;
+    border-radius: 20%;
+}
+.last h3{
+    margin: 10px;
+    color: rgb(43, 70, 70);
+}
